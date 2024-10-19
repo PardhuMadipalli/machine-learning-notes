@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Machine learning notes](#machine-learning-notes)
+  - [Reducing overfitting](#reducing-overfitting)
+    - [Regularization](#regularization)
+  - [Fitting larger networks in memory](#fitting-larger-networks-in-memory)
+    - [Gradient check-pointing](#gradient-check-pointing)
+  - [Evaluation](#evaluation)
+    - [Perplexity](#perplexity)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Machine learning notes
 *Theoretical and practical concepts of machine learning*
 
